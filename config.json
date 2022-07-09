@@ -1,0 +1,9 @@
+﻿{
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "spiromicro"
+    },
+    "secret": "d1396a21-484e-4f93-ad27-519da4435bb9"
+}
